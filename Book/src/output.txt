@@ -1,0 +1,101 @@
+
+
+The Book: Dummy-Book is equal to the Book: Guns-Of-Navarone?  
+false
+
+The Book: Guns-Of-Navarone is equal to the Book: Icarus-Agenda?  
+false
+
+The Book: Love-Story is equal to the Book: Intro-To-Programming?  
+false
+
+The Book: Elements-Of-Calculus is equal to the Book: Hiking-in-Tibet?  
+false
+
+the price of Dummy-Book is 20.0 $
+You've changed the Discount of Love-Story to 0.0%
+the price of Love-Story is 25.5 $
+You've changed the Markup of Elements-Of-Calculus to 0.0%
+the price of Elements-Of-Calculus is 56.0 $
+The Book: Elements-Of-Calculus is equal to the Book: Hiking-in-Tibet?  
+false
+
+You've changed the Discount of Hiking-in-Tibet to 15.0%
+You've changed the Markup of Hiking-in-Tibet to 18.0%
+book.Book:
+The book: 
+	Title: Dummy-Book
+	Price: 20.0$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.Novel:
+The book: 
+	Title: Guns-Of-Navarone
+	Price: 50.0$
+	Type: Adventure
+	Markup: 10.0%
+	Actual price: 55.0$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.Novel:
+The book: 
+	Title: Guns-Of-Navarone
+	Price: 45.0$
+	Type: Adventure
+	Markup: 15.0%
+	Actual price: 51.75$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.Novel:
+The book: 
+	Title: Icarus-Agenda
+	Price: 35.75$
+	Type: Mystery
+	Markup: 7.0%
+	Actual price: 38.2525$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.Novel:
+The book: 
+	Title: Love-Story
+	Price: 25.5$
+	Type: Romance
+	Markup: 8.0%
+	Actual price: 27.54$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.TextBook:
+The book: 
+	Title: Intro-To-Programming
+	Price: 75.0$
+	Field: Comp-Sci
+	Discount: 10.0%
+	Actual price: 67.5$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.TextBook:
+The book: 
+	Title: Elements-Of-Calculus
+	Price: 56.0$
+	Field: Mathematics
+	Discount: 15.0%
+	Actual price: 47.6$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.UsedNovel:
+The book: 
+	Title: Hiking-in-Tibet
+	Price: 40.0$
+	Type: Adventure
+	Markup: 5.0%
+	Actual price: 42.0$
+	How old: 3 years
+	Discount: 5.0%
+	Final price: 39.9$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+book.UsedNovel:
+The book: 
+	Title: Hiking-in-Tibet
+	Price: 40.12$
+	Type: Adventure
+	Markup: 18.0%
+	Actual price: 47.3416$
+	How old: 25 years
+	Discount: 15.0%
+	Final price: 40.24036$
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+
